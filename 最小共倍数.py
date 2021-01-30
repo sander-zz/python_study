@@ -9,5 +9,5 @@ for factory in range(x, 0, -1):
         print('%d和%d的最小公倍数为%d' % (x, y, x * y//factory))
         break
 
-
+print()
 
